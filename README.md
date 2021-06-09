@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at **[Gentrop](https://www.gentrop.com)** :yellow_heart:
 
-- 🌱 I’m currently learning **Clean Architecture** 
+- 🌱 I’m currently learning **Clean Architecture** and **React**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/diandria)!
 
@@ -35,6 +35,10 @@
     <a href="https://www.mysql.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql icon" width="40" height="40" /> </a>
     <a href="https://jestjs.io/docs/pt-BR/jest-community" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest icon" width="40" height="40" /> </a>
     <a href="https://www.npmjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm icon" width="40" height="40" /> </a>
+    <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud icon" width="40" height="40" /> </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase icon" width="40" height="40" /> </a>
+    <a href="https://workspace.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google icon" width="40" height="40" /> </a>
+
 </p>
 
 

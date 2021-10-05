@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working as a **Junior Systems Analyst** at Gentrop **[Gentrop](https://www.gentrop.com)** :yellow_heart:
 
-- 🌱 I'm currently looking to specialize in back-end, going deeper into **Clean Architecture** and **Java** and **Clojure languages**
+- 🌱 I'm currently looking to specialize in back-end, going deeper into **Clean Architecture** and **Java** and **Clojure** languages
 
 - 👨‍💻 All of my projects are available [here](https://github.com/diandria)!
 

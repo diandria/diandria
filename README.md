@@ -4,7 +4,7 @@
 
 ![diandria](https://komarev.com/ghpvc/?username=diandria)
 
-- 🔭 I'm currently working as a **Junior Systems Analyst** at Gentrop **[Gentrop](https://www.gentrop.com)** :yellow_heart:
+- 🔭 I'm currently working as a **Sofware Engineer** at **[Nubank](https://github.com/nubank)** 💜
 
 - 🌱 I'm currently looking to specialize in back-end, going deeper into **Clean Architecture** and **Java** and **Clojure** languages
 

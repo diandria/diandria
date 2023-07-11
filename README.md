@@ -27,5 +27,5 @@ I'm passionate about learning new technologies, and currently looking to special
 
 ### 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=diandria&count_private=true&show_icons=true&theme=graywhite"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=diandria&count_private=true&show_icons=true&theme=graywhite&rank_icon=github"/>
 </div>
